@@ -1,3 +1,2 @@
 # Codsoft
-first repository
-task 1
+task 1 (Web development)
